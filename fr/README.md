@@ -16,7 +16,8 @@ Ce dépôt rassemble les travaux d'analyse, synthèses méthodologiques et livra
 
 | Module / Thématique | Livrables associés | Documentation (Markdown) | Version Document (PDF) |
 | :--- | :--- | :--- | :--- |
-| **01. Fondations et Cadres de Sécurité** | Analyse Triade CIA, Cartographie NIST CSF, Architecture SIEM vs SOAR | 
+| **01. Fondations et Cadres de Sécurité** | Analyse Triade CIA, Cartographie NIST CSF, Architecture SIEM vs SOAR | [`synthese-fondations.md`](./01-fondations-et-cadres/synthese-fondations.md) | [Lien Google Drive](LIEN_GOOGLE_DRIVE_ICI) |
+| **02. Sécurité Réseau et Systèmes** | En attente | Prévu | Prévu |
 | **03. Linux et Ligne de Commande** | En attente | Prévu | Prévu |
 | **04. Outils SIEM et Triage d'Incidents** | En attente | Prévu | Prévu |
 
@@ -47,5 +48,5 @@ Ce premier volet valide la compréhension des piliers méthodologiques nécessai
 
 ## Contact et Vérification
 
-* **Profil GitHub :** [Lien du Profil](https://github.com/dwgcs/cybersecurity-portfolio/tree/main)
+* **Profil GitHub :** [Lien du Profil]([https://github.com/](https://github.com/dwgcs/cybersecurity-portfolio/)
 * **Certification :** Google Cybersecurity Professional Certificate — Module 1 : Foundations of Cybersecurity validé.
