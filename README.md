@@ -1,54 +1,23 @@
-# cybersecurity-portfolio
+# Portfolio Cybersécurité / Cybersecurity Portfolio
 
-# Portfolio cybersécurité | Cybersecurity projects
+Bienvenue sur mon portfolio technique en cybersécurité, documentant les compétences et livrables acquis à travers le programme Google Cybersecurity Professional Certificate et mes travaux personnels.
 
-Ce dépôt rassemble les travaux d'analyse, synthèses méthodologiques et livrables techniques réalisés dans le cadre du cursus Google Cybersecurity Professional Certificate et de projets personnels.
-
----
-
-## Profil et Objectifs
-
-* **Poste visé :** Analyste SOC Junior / Spécialiste Sécurité des Systèmes d'Information
-* **Domaines de compétence :** Cadres de gouvernance (NIST CSF), Triade CIA, Typologie et mise en œuvre des contrôles, Architecture SIEM et SOAR, Procédures d'escalade et culture de sécurité.
-* **État d'avancement :** Validation du Module 1 (Foundations of Cybersecurity) ; formalisation des livrables de preuve de compétences.
+Welcome to my cybersecurity portfolio, documenting technical competencies and deliverables developed through the Google Cybersecurity Professional Certificate and independent security research.
 
 ---
 
-## Structure du Dépôt
+## Language Selection / Sélection de la Langue
 
-| Module / Thématique | Livrables associés | Documentation (Markdown) | Version Document (PDF) |
-| :--- | :--- | :--- | :--- |
-| **01. Fondations et Cadres de Sécurité** | Analyse Triade CIA, Cartographie NIST CSF, Architecture SIEM vs SOAR |
-| **02. Sécurité Réseau et Systèmes** | En attente | Prévu | Prévu |
-| **03. Linux et Ligne de Commande** | En attente | Prévu | Prévu |
-| **04. Outils SIEM et Triage d'Incidents** | En attente | Prévu | Prévu |
+* **Français :** [Consulter le portfolio en français](./fr/README.md)
+  * Accès direct au livrable : [01. Fondations et Cadres de Sécurité](./fr/01-fondations-et-cadres/synthese-fondations.md)
 
----
-
-## Module 1 : Fondations et Gouvernance
-
-Ce premier volet valide la compréhension des piliers méthodologiques nécessaires aux opérations de sécurité :
-
-1. **La Triade CIA en Pratique :**
-   * **Confidentialité :** Protection des identifiants et prévention contre l'exfiltration de données non autorisée.
-   * **Intégrité :** Contrôle et détection des altérations de fichiers de configuration ou de bases de données.
-   * **Disponibilité :** Maintien de l'accessibilité des services face aux pannes matérielles, rançongiciels ou attaques DoS/DDoS.
-
-2. **Alignement sur le Cadre NIST CSF :**
-   * Articulation des fonctions principales : Identifier, Protéger, Détecter, Répondre, Récupérer.
-
-3. **Classification des Contrôles de Sécurité :**
-   * **Par méthode de mise en œuvre :** Contrôles techniques (logiques), organisationnels (administratifs), physiques.
-   * **Par fonction opérationnelle :** Préventifs, détectifs, correctifs.
-
-4. **Architecture Opérationnelle SOC :**
-   * **SIEM :** Ingestion centralisée des journaux d'événements, normalisation et détection d'anomalies.
-   * **SOAR :** Orchestration et exécution automatisée de procédures de remédiation (playbooks).
-   * **Culture de sécurité :** Rôle des signalements utilisateurs dans la boucle d'ingestion et d'alerte.
+* **English:** [View the English portfolio](./en/README.md)
+  * Direct deliverable access: [01. Foundations and Security Frameworks](./en/01-foundations-and-frameworks/summary-foundations.md)
 
 ---
 
-## Contact et Vérification
+## Profil / Profile Summary
 
-* **Profil GitHub :** [Lien du Profil](https://github.com/dwgcs/cybersecurity-portfolio) 
-* **Certification :** Google Cybersecurity Professional Certificate — Module 1 : Foundations of Cybersecurity validé.
+* **Role:** Junior SOC Analyst / Spécialiste Sécurité de l'Information
+* **Core Skills:** NIST CSF, CIA Triad, Security Controls, SIEM/SOAR Architecture, Incident Triage
+* **Certification:** Google Cybersecurity Professional Certificate (Module 1 Validated)
